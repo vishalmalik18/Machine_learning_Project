@@ -20,7 +20,7 @@ This project showcases practical applications of machine learning by building mo
   - `numpy` – Numerical computations
   - `scikit-learn` – Machine learning algorithms
   - `matplotlib` / `seaborn` – Data visualization
-  - Jupyter Notebook (if used)
+  - Jupyter Notebook
 
 ## 👤 Author
 
